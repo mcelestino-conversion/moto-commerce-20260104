@@ -1,0 +1,13 @@
+{
+  "canon_version": "1.0",
+  "description": "{\"project\":{\"name\":\"moto commerce\",\"type\":\"web_app\",\"framework\":\"nextjs\",\"language\":\"typescript\"},\"description\":\"a full-featured motorcycle e-commerce platform with authentication, product management, shopping cart, and stripe payments.\",\"features\":[\"authentication\",\"shopping_cart\",\"payment_integration\",\"admin_dashboard\",\"product_search\",\"reviews\",\"seo_optimization\",\"analytics\"],\"pages\":[\"home\",\"products\",\"product details\",\"cart\",\"checkout\",\"account\",\"admin\"],\"styling\":{\"framework\":\"tailwind\",\"color_scheme\":\"black_red_gray\"},\"requirements\":{\"seo\":true,\"analytics\":true,\"performance\":\"high\"}}",
+  "project": {
+    "framework": "nextjs",
+    "language": "typescript",
+    "name": "moto commerce 20260104",
+    "type": "web_app"
+  },
+  "styling": {
+    "framework": "tailwind"
+  }
+}
